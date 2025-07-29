@@ -1,7 +1,7 @@
 ![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnJ6ZzZobDV5a3kzdmEwNXk3YXNqaGVjc3U5eDdraHc5MWxhZTZhNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
 <h1 align="center">Hi there, I'm Nikhitha Voordi</h1>
 <h3 align="center">A Professional Data Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://iconscout.com/lottie-animation/female-web-developer-3573238_2997725">
+<img align="right" alt="Coding" width="400" src="https://iconscout.com/lottie-animation/web-development-5942157_4936329">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2002Nikhitha&label=Profile%20views&color=0e75b6&style=flat" alt="2002Nikhitha" /> </p>
 

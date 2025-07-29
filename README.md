@@ -1,8 +1,9 @@
 ![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnJ6ZzZobDV5a3kzdmEwNXk3YXNqaGVjc3U5eDdraHc5MWxhZTZhNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
 <h1 align="center">Hi there, I'm Nikhitha Voordi</h1>
 <h3 align="center">A Professional Data Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fkhushbu4066&psig=AOvVaw111YXv1Or16AgQ9KUh4tzQ&ust=1753867061194000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjX48fe4Y4DFQAAAAAdAAAAABAE">
-
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif" alt="coding" width="400"/>
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2002Nikhitha&label=Profile%20views&color=0e75b6&style=flat" alt="2002Nikhitha" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2002Nikhitha" alt="2002Nikhitha" /></a> </p>
@@ -25,9 +26,12 @@
 
 ⚡ A little known fact — I’m passionate about data visualization and turning complex data into clear stories.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="[https://www.linkedin.com/in/voordi-nikhitha-67b835283/](https://www.linkedin.com/in/voordi-nikhitha-67b835283/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maddali saketh" height="30" width="40" /></a>
+### 💌 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/voordi-nikhitha-67b835283/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

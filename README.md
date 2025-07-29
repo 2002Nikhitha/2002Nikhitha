@@ -1,4 +1,4 @@
-![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnJ6ZzZobDV5a3kzdmEwNXk3YXNqaGVjc3U5eDdraHc5MWxhZTZhNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
+![MasterHead](https://www.freepik.com/free-vector/woman-office-with-computer-desk-night-vector-illustration-busy-girl-character-worker-late-work-with-skyscraper-city-window-view-workplace-interior-manager-sit-with-stack-documents_69603165.htm#fromView=keyword&page=6&position=0&uuid=820f9b8e-6d3b-4850-989e-771eed236145&query=Girl+Programmer)
 <h1 align="center">Hi there, I'm Nikhitha Voordi</h1>
 <h3 align="center">A Professional Data Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://www.freepik.com/free-vector/woman-office-with-computer-desk-night-vector-illustration-busy-girl-character-worker-late-work-with-skyscraper-city-window-view-workplace-interior-manager-sit-with-stack-documents_69603165.htm#fromView=keyword&page=6&position=0&uuid=820f9b8e-6d3b-4850-989e-771eed236145&query=Girl+Programmer">

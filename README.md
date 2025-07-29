@@ -1,7 +1,7 @@
-![MasterHead](https://www.freepik.com/free-vector/woman-office-with-computer-desk-night-vector-illustration-busy-girl-character-worker-late-work-with-skyscraper-city-window-view-workplace-interior-manager-sit-with-stack-documents_69603165.htm#fromView=keyword&page=6&position=0&uuid=820f9b8e-6d3b-4850-989e-771eed236145&query=Girl+Programmer)
+![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnJ6ZzZobDV5a3kzdmEwNXk3YXNqaGVjc3U5eDdraHc5MWxhZTZhNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
 <h1 align="center">Hi there, I'm Nikhitha Voordi</h1>
 <h3 align="center">A Professional Data Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.freepik.com/free-vector/woman-office-with-computer-desk-night-vector-illustration-busy-girl-character-worker-late-work-with-skyscraper-city-window-view-workplace-interior-manager-sit-with-stack-documents_69603165.htm#fromView=keyword&page=6&position=0&uuid=820f9b8e-6d3b-4850-989e-771eed236145&query=Girl+Programmer">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fkhushbu4066&psig=AOvVaw111YXv1Or16AgQ9KUh4tzQ&ust=1753867061194000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjX48fe4Y4DFQAAAAAdAAAAABAE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2002Nikhitha&label=Profile%20views&color=0e75b6&style=flat" alt="2002Nikhitha" /> </p>
 

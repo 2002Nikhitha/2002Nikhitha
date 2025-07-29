@@ -29,7 +29,7 @@
 ### 💌 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/voordi-nikhitha-67b835283/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/vnikhitha-voordi-392748369/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="40" height="40"/>
   </a>
 </p>
